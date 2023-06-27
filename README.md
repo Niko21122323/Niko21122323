@@ -9,15 +9,14 @@ I'm a frontend-loving full stack developer with over a year of experience.
 I specialize in HTML, CSS, SASS, and React for frontend development, where I truly enjoy crafting engaging user interfaces. On the backend, I excel in Node.js and MongoDB, enabling me to build robust server-side applications. With a keen eye for design and a passion for CSS, I take pleasure in creating visually appealing and responsive websites. React is my framework of choice for building dynamic and interactive web experiences. Let's collaborate and bring outstanding web projects to life!
 
   <p>
-       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instagram-F25278?style=for-the- 
-               badge&logo=instagram&logoColor=white"/>
+       <a href="s">
+              <a href="">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instahram-FF2171?style=for-the-badge&logo=instagramk&logoColor=white"/>
        </a>
        <a href="">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Facebook-a9cde0?style=for-the-badge&logo=facebook&logoColor=white"/>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Facebook-0079FF0?style=for-the-badge&logo=facebook&logoColor=white"/>
        </a>
   </p>
-#
     
 #
 
