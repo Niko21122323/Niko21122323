@@ -14,12 +14,10 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instahram-FF2171?style=for-the- badge&logo=instagram&logoColor=white"/>
        </a>
        <a href="">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Upwork-16FF00?style=for-the- 
-badge&logo=upwork&logoColor=white"/>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Upwork-16FF00?style=for-the- badge&logo=upwork&logoColor=white"/>
        </a>
        <a href="">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Upwork-16FF00?style=for-the- 
-badge&logo=frontendmentor&logoColor=white"/>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Upwork-16FF00?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
        </a>
   </p>
     
