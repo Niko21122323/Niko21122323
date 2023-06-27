@@ -1,7 +1,7 @@
 # Nikola Stojanovski
 
 **`Junior Full-Stack Developer`**
-
+<br/>
 👋 Hey, I'm Nikola. <br/>
 <br/>
 I'm a frontend-loving full stack developer with over a year of experience.
