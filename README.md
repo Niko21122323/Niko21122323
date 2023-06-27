@@ -22,7 +22,7 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
   </p>
     
 #
-
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 #
 
 ### My Stats
