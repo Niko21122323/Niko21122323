@@ -7,4 +7,5 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
 
 #
 
+### My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko21122323&show_icons=true&theme=tokyonight)
