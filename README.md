@@ -1,4 +1,4 @@
-# Nikola Stojanovski
+# 👨‍💻 Nikola Stojanovski
 
 **`Junior Full-Stack Developer`** <br/>
 
