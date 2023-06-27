@@ -14,7 +14,7 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
                badge&logo=instagram&logoColor=white"/>
        </a>
        <a href="">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Facebook-F25278?style=for-the-badge&logo=facebook&logoColor=white"/>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Facebook-a9cde0?style=for-the-badge&logo=facebook&logoColor=white"/>
        </a>
   </p>
 #
