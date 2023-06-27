@@ -13,6 +13,9 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
        <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instagram-red?logo=instagrammmmmmmmmmmmm"/>
        </a>
+       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instagram-F25278?style=for-the-badge&logo=instagram&logoColor=white"/>
+       </a>
   </p>
     
 #
