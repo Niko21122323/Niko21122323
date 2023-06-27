@@ -18,9 +18,9 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Upwork-16FF00?style=for-the- 
                   badge&logo=upwork&logoColor=white"/>
        </a>
-       <a href="">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Frontend Mentor-16FF00?style=for-the- 
-                  badge&logo=frontendmentor&logoColor=white"/>
+               <a href="">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Upwork-16FF00?style=for-the- 
+                  badge&logo=upwork&logoColor=white"/>
        </a>
   </p>
     
