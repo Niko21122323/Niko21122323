@@ -10,8 +10,8 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
 <br/>
 <br/>
   <p>
-       <a href="" style="border-radius: 2px;">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+       <a href="" style="border-radius: 10px;">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px;"/>
        </a>
        <a href="">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instagram-FF2171?style=for-the-badge&logo=instagram&logoColor=white"/>
