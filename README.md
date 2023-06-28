@@ -11,6 +11,9 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
 <br/>
   <p>
        <a href="">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+       </a>
+       <a href="">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instagram-FF2171?style=for-the-badge&logo=instagram&logoColor=white"/>
        </a>
        <a href="">
