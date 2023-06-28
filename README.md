@@ -24,8 +24,10 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
        </a>
   </p>
     
-#
+---
 
+  ### 💻 Technology stack
+  
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> 
@@ -36,7 +38,7 @@ I specialize in HTML, CSS, SASS, and React for frontend development, where I tru
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
   <br/>
   
-#
+---
 
-### My Stats
+### 📈 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko21122323&show_icons=true&theme=tokyonight)
