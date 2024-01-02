@@ -5,8 +5,15 @@
 
 👋 Hey, I'm Nikola <br/>
 
-I'm a frontend-loving full stack developer with over a year of experience.
-I specialize in HTML, CSS, SASS, and React for frontend development, where I truly enjoy crafting engaging user interfaces. On the backend, I excel in Node.js and MongoDB, enabling me to build robust server-side applications. With a keen eye for design and a passion for CSS, I take pleasure in creating visually appealing and responsive websites. React is my framework of choice for building dynamic and interactive web experiences. Let's collaborate and bring outstanding web projects to life! 
+As a passionate Full Stack Web Developer with a dedicated two-year journey in the industry, I find immense joy and motivation in the art of programming. My commitment to continuous learning and growth drives me to excel in my field.
+
+Proficient in a diverse set of technologies, I specialize in JavaScript and TypeScript, leveraging frameworks like React and Next.js to build dynamic and responsive web applications. My expertise extends to crafting seamless user experiences through CSS, SCSS, and Tailwind CSS, while ensuring accessibility and semantic HTML structure.
+
+During my tenure as a Junior Frontend Developer at Pabau, I honed my skills by actively contributing to real-world projects. This experience equipped me with the ability to collaborate effectively within a team, navigate complex problem-solving scenarios, and deliver high-quality solutions.
+
+My proficiency extends to the server-side with Node.js, and I'm well-versed in database management using MongoDB and Prisma. Additionally, I embrace GraphQL for efficient data querying and manipulation.
+
+Driven by a strong work ethic and fueled by my love for programming, I bring a unique blend of technical skills, adaptability, and a proactive approach to every project. Looking forward to contributing my expertise to innovative and challenging endeavors.
 <br/>
 <br/>
   <p>
