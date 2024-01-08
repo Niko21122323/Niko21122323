@@ -1,6 +1,6 @@
 # 👨‍💻 Nikola Stojanovski
 
-**`Junior Full-Stack Developer`** <br/>
+**`Full-Stack Developer`** <br/>
 
 
 👋 Hey, I'm Nikola <br/>
