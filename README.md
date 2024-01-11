@@ -9,8 +9,6 @@ As a passionate Full Stack Web Developer with a dedicated two-year journey in th
 
 Proficient in a diverse set of technologies, I specialize in JavaScript and TypeScript, leveraging frameworks like React and Next.js to build dynamic and responsive web applications. My expertise extends to crafting seamless user experiences through CSS, SCSS, and Tailwind CSS, while ensuring accessibility and semantic HTML structure.
 
-During my tenure as a Junior Frontend Developer at Pabau, I honed my skills by actively contributing to real-world projects. This experience equipped me with the ability to collaborate effectively within a team, navigate complex problem-solving scenarios, and deliver high-quality solutions.
-
 My proficiency extends to the server-side with Node.js, and I'm well-versed in database management using MongoDB and Prisma. Additionally, I embrace GraphQL for efficient data querying and manipulation.
 
 Driven by a strong work ethic and fueled by my love for programming, I bring a unique blend of technical skills, adaptability, and a proactive approach to every project. Looking forward to contributing my expertise to innovative and challenging endeavors.
