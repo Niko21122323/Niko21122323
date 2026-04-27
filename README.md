@@ -1,49 +1,44 @@
-# 👨‍💻 Nikola Stojanovski
+Full Stack Developer | Next.js | React | TypeScript | Node.js
 
-**`Full-Stack Developer`** <br/>
+Full stack developer with 3 years shipping production applications across 
+agency and SaaS environments. I build complete web products, from database 
+to UI, using Next.js, React, TypeScript, and Node.js.
 
+I've shipped 34 websites across e-commerce, corporate, and SaaS sectors. 
+I've also built production features inside a real healthcare SaaS platform, 
+writing tested, typed code alongside backend engineers and QA teams.
 
-👋 Hey, I'm Nikola <br/>
+What I build:
 
-As a passionate Full Stack Web Developer with a dedicated two-year journey in the industry, I find immense joy and motivation in the art of programming. My commitment to continuous learning and growth drives me to excel in my field.
+✦ Frontend: Next.js, React, TypeScript, Tailwind CSS, Astro.js
+✦ Backend: Node.js, REST APIs, GraphQL, Prisma — clean server logic that's easy to maintain and hand off.
+✦ Databases: PostgreSQL, MongoDB, Supabase, Firebase — structured around what the product actually needs, not what's familiar.
+✦ E-commerce: Shopify storefronts, theme customization, product systems, and checkout flows built from scratch or extended on existing stores.
+✦ Performance: Core Web Vitals, SEO, cross-browser compatibility. I have audited and fixed 110+ live sites on tight timelines.
 
-Proficient in a diverse set of technologies, I specialize in JavaScript and TypeScript, leveraging frameworks like React and Next.js to build dynamic and responsive web applications. My expertise extends to crafting seamless user experiences through CSS, SCSS, and Tailwind CSS, while ensuring accessibility and semantic HTML structure.
+Who I work with:
 
-My proficiency extends to the server-side with Node.js, and I'm well-versed in database management using MongoDB and Prisma. Additionally, I embrace GraphQL for efficient data querying and manipulation.
+Agencies that need a developer who can own a project end-to-end, without 
+daily oversight. Startups and SaaS teams building their first or second 
+product. E-commerce brands that want a Shopify store built correctly, 
+not just fast.
 
-Driven by a strong work ethic and fueled by my love for programming, I bring a unique blend of technical skills, adaptability, and a proactive approach to every project. Looking forward to contributing my expertise to innovative and challenging endeavors.
-<br/>
-<br/>
-  <p>
-       <a href="">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-       </a>
-       <a href="">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instagram-FF2171?style=for-the-badge&logo=instagram&logoColor=white"/>
-       </a>
-       <a href="">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Upwork-16FF00?style=for-the-badge&logo=upwork&logoColor=white"/>
-       </a>
-       <a href="">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Frontend Mentor-0A6EBD?style=for-the-badge&logo=frontendmentor&logoColor=white"/>
-       </a>
-  </p>
-    
-#
+How I work:
 
-  ### 💻 Technology stack 
-  
-  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> 
-  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/> 
-  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
-  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
-  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> 
-  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
-  <br/>
-  
-#
+I scope before I write a line of code. I ask about scale, third-party 
+integrations, and edge cases on day one. I write TypeScript by default. 
+I use Jest on critical paths. I document as I go. Updates happen on a 
+schedule, not only when something breaks. Timelines get treated as a 
+constraint, not a rough guide.
 
-### 📈 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niko21122323&show_icons=true&theme=tokyonight)
+Stack:
+
+✦ Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
+✦ Frameworks & Libraries: Next.js, React, Astro.js, Node.js, Tailwind CSS, Zustand, TanStack, GraphQL, Prisma, Jest
+✦ Databases & Services: MongoDB, Supabase, Firebase, PostgreSQL
+✦ APIs: RESTful APIs, GraphQL
+✦ Tools: Git, Postman, Docker, Vite, Turbopack, Shopify
+✦ Deployment: Vercel, Netlify, Render, Railway
+
+Send me a message with what you're building. I'll get back to you 
+within 24 hours.
